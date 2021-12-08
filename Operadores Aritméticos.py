@@ -1,3 +1,12 @@
+#  + SOMA
+# - SUBTRAÇÃO
+# * MULTIPLICAÇÃO
+# / DIVISÃO
+# // DIVISÃO INTEIRA
+#  ** EXPONENCIAÇÃO
+# % RESTO DA DIVISÃO
+
+
 
 print(2+3)
 
