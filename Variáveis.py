@@ -32,6 +32,7 @@ teste = True
 print('estou ? ' , teste)
 
 
+
 # INICIAR COM LETRA, PODE CONTER NÚMEROS, SEPARAR _, LETRAS MINÚSCULAS
 
 nome = 'erica'
@@ -52,7 +53,15 @@ print('e maior de idade : ' , e_maior)
 print(altura * idade)
 
 # a divisão sera inteira com // 
+
+#pode ser feita desses 3 jeitos 
 imc = peso // (altura * altura)
+
+#imc = peso / (altura ** 2) 
+
+#imc = peso // (altura ** 2 )
+
+
 
 #imc
 print( nome, 'tem ' , idade ,' anos de idade e o seu imc e', imc)
