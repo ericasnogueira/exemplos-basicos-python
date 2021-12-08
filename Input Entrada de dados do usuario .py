@@ -25,6 +25,7 @@ print(f'{nome} tem {idade} anos.'
 
 #tem que ter  esse int pq se nao tiver ira concatenar 
 #ficaria 15 + 15 = 1515
+#sem o int ficaria com str então convertemos a entrada de str para int
 
 a = int(input('primeiro numero : '))
 b= int(input('segundo numero : '))
